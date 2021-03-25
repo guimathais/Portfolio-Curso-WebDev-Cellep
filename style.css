@@ -1,0 +1,69 @@
+.navbar-toggler{
+  background-color: aliceblue;
+}
+.navbar-brand{
+  font-family: Roboto;
+}
+
+.navbar-nav{
+  font-family: Roboto;
+}
+
+.rounded-circle{
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  border: 4px solid rgb(231, 231, 231);
+}
+
+.meuNome{
+  font-family: roboto;
+  font-size: 36px;
+}
+
+.descricaoProfissional{
+  margin: 0px;
+  font-family: roboto;
+  font-size: 16px;
+}
+
+.card-title{
+  font-family: roboto;
+  font-size: 18px;
+}
+
+.tituloSecoes{
+  font-family: roboto;
+  font-size: 24px;
+  text-align: center;
+}
+
+.sobreMim{
+  font-family: roboto;
+  font-size: 36px;
+}
+
+.textoSobreMim{
+  font-family: roboto;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.tituloProjetos{
+  font-family: roboto;
+  font-size: 36px;
+  text-align: center;
+}
+
+.tituloContato{
+  font-family: roboto;
+  font-size: 36px;
+}
+
+.textoContato{
+  font-family: roboto;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.card{
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
